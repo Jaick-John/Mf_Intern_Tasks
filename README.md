@@ -12,3 +12,6 @@ This task involves using the Pandas library to manipulate data.
 This task involves using the matplotlib library to visualize data.
 ### Task 4:
 This task involves performing exploratory data analysis on a dataset.
+
+### Task 5:
+Engineer new features and select relevant features for model training.
